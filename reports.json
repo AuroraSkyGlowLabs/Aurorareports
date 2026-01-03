@@ -11,9 +11,9 @@
 
 [
   {
-    "lat": 44.0,
-    "lng": -87.0,
-    "event": "Hello! This is a test report :)",
+    "lat": 44.0000,
+    "lng": -87.0000,
+    "event": "fulmoon",
     "timestamp": 1700001000000
   }
 ]
