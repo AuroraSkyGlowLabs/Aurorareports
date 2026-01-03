@@ -6,8 +6,8 @@
     "timestamp": 1700000000000
   },
   {
-    "lat": 43.0578,
-    "lng": -89.4892,
+    "lat": 43.0577942,
+    "lng": -89.4892674,
     "event": "clouds",
     "timestamp": 1767416487258
   },
@@ -23,28 +23,78 @@
     "event": "kt",
     "timestamp": 1767416487258
   },
+
+  // TEST spelled out in the USA
   {
-    "lat": 40.0,
+    "lat": 39.85,
     "lng": -100.0,
-    "event": "testT",
-    "timestamp": 1700000000000
+    "event": "T",
+    "timestamp": 1700000004000
   },
   {
-    "lat": 40.0,
-    "lng": -99.7,
-    "event": "testE",
-    "timestamp": 1700000000000
+    "lat": 39.8,
+    "lng": -100.0,
+    "event": "T",
+    "timestamp": 1700000004100
   },
   {
-    "lat": 40.0,
-    "lng": -99.4,
-    "event": "testS",
-    "timestamp": 1700000000000
+    "lat": 39.75,
+    "lng": -100.0,
+    "event": "T",
+    "timestamp": 1700000004200
   },
   {
-    "lat": 40.0,
-    "lng": -99.1,
-    "event": "testT2",
-    "timestamp": 1700000000000
+    "lat": 39.85,
+    "lng": -99.95,
+    "event": "E",
+    "timestamp": 1700000004300
+  },
+  {
+    "lat": 39.8,
+    "lng": -99.95,
+    "event": "E",
+    "timestamp": 1700000004400
+  },
+  {
+    "lat": 39.75,
+    "lng": -99.95,
+    "event": "E",
+    "timestamp": 1700000004500
+  },
+  {
+    "lat": 39.85,
+    "lng": -99.9,
+    "event": "S",
+    "timestamp": 1700000004600
+  },
+  {
+    "lat": 39.8,
+    "lng": -99.9,
+    "event": "S",
+    "timestamp": 1700000004700
+  },
+  {
+    "lat": 39.75,
+    "lng": -99.9,
+    "event": "S",
+    "timestamp": 1700000004800
+  },
+  {
+    "lat": 39.85,
+    "lng": -99.85,
+    "event": "T",
+    "timestamp": 1700000004900
+  },
+  {
+    "lat": 39.8,
+    "lng": -99.85,
+    "event": "T",
+    "timestamp": 1700000005000
+  },
+  {
+    "lat": 39.75,
+    "lng": -99.85,
+    "event": "T",
+    "timestamp": 1700000005100
   }
 ]
