@@ -4,16 +4,11 @@
     "lng": -89.4012,
     "event": "fullMoon",
     "timestamp": 1700000000000
-  }
-]
-
-
-[
+  },
   {
-"lat": 43.0577942,
-"Ing": -89.4892674,
-"event": "clouds",
-"timestamp": 1767416487258
+    "lat": 43.0577942,
+    "lng": -89.4892674,
+    "event": "clouds",
+    "timestamp": 1767416487258
   }
 ]
-
