@@ -6,9 +6,21 @@
     "timestamp": 1700000000000
   },
   {
-    "lat": 40.0577942,
-    "lng": -88.4899674,
+    "lat": 43.0578,
+    "lng": -89.4892,
     "event": "clouds",
+    "timestamp": 1767416487258
+  },
+  {
+    "lat": 25.0,
+    "lng": -40.0,
+    "event": "Hello, this is a test report! 🌊",
+    "timestamp": 1700000000000
+  },
+  {
+    "lat": 43.5,
+    "lng": -87.5,
+    "event": "kt",
     "timestamp": 1767416487258
   }
 ]
