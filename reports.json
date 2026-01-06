@@ -100,5 +100,11 @@
     "lng": -99.0,
     "event": "wjhwhfhffjkfeahfwjefewgfywefyfwegywegyfegywgyefgwyf",
     "timestamp": 1700000005000
-  }
+  },
+  {
+  "lat": 43.0731,
+  "lng": -89.4029,
+  "event": "TEST",
+  "timestamp": 1767733050369
+}
 ]
