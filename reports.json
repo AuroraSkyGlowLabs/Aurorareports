@@ -106,5 +106,11 @@
   "lng": -89.4029,
   "event": "TEST",
   "timestamp": 1767733050369
+},
+  {
+  "lat": 44.0,
+  "lng": -88.0,
+  "event": "automated-test-entry",
+  "timestamp": 1768000000000
 }
 ]
