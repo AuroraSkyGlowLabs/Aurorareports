@@ -46,5 +46,11 @@
   "lng": 41.1,
   "event": "aurora (example)",
   "timestamp": 1767902618650
+},
+  {
+  "lat": 43.0,
+  "lng": -87.0,
+  "event": "Aurora",
+  "timestamp": 1768000000000
 }
 ]
