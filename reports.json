@@ -40,5 +40,11 @@
   "lng": -88.0,
   "event": "automated-test-entry",
   "timestamp": 1768000000000
+},
+  {
+  "lat": 41.1,
+  "lng": 41.1,
+  "event": "aurora (example)",
+  "timestamp": 1767902618650
 }
 ]
